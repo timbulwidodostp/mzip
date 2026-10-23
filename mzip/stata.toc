@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p mzip Marginalized zero-inflated Poisson regression Use mzip With STATA 19
