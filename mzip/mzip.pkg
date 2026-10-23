@@ -1,4 +1,16 @@
-D 'suradf': Series-specific SUR-ADF panel unit root test (Breuer, McNown and Wallace 2002) Use suradf With STATA 19
-F suradf.ado
-F suradf.sthlp
-F suradf_methods.sthlp
+D 'mzip': Marginalized zero-inflated Poisson regression Use mzip With STATA 19
+F mzigp.ado
+F mzigp.sthlp
+F mzigp_llf.ado
+F mzigp_p.ado
+F mzigp_postestimation.sthlp
+F mzinb.ado
+F mzinb.sthlp
+F mzinb_llf.ado
+F mzinb_p.ado
+F mzinb_postestimation.sthlp
+F mzip.ado
+F mzip.sthlp
+F mzip_llf.ado
+F mzip_p.ado
+F mzip_postestimation.sthlp
